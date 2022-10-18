@@ -1,0 +1,48 @@
+name: tensorflow
+channels:
+  - apple
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8=h3422bc3_4
+  - c-ares=1.18.1=h3422bc3_0
+  - ca-certificates=2022.9.24=h4653dfc_0
+  - cached-property=1.5.2=hd8ed1ab_1
+  - cached_property=1.5.2=pyha770c72_1
+  - grpcio=1.46.3=py38h1ef021a_0
+  - h5py=3.6.0=nompi_py38hacf61ce_100
+  - hdf5=1.12.1=nompi_hd9dbc9e_104
+  - krb5=1.19.3=he492e65_0
+  - libblas=3.9.0=16_osxarm64_openblas
+  - libcblas=3.9.0=16_osxarm64_openblas
+  - libcurl=7.85.0=h1c293e1_0
+  - libcxx=14.0.6=h2692d47_0
+  - libedit=3.1.20191231=hc8eb9b7_2
+  - libev=4.33=h642e427_1
+  - libffi=3.4.2=h3422bc3_5
+  - libgfortran=5.0.0=11_3_0_hd922786_25
+  - libgfortran5=11.3.0=hdaf2cc0_25
+  - liblapack=3.9.0=16_osxarm64_openblas
+  - libnghttp2=1.47.0=h519802c_1
+  - libopenblas=0.3.21=openmp_hc731615_3
+  - libprotobuf=3.19.4=hccf11d3_0
+  - libsqlite=3.39.4=h76d750c_0
+  - libssh2=1.10.0=h7a5bd25_3
+  - libzlib=1.2.12=h03a7124_4
+  - llvm-openmp=14.0.4=hd125106_0
+  - ncurses=6.3=h07bb92c_1
+  - numpy=1.23.2=py38h579d673_0
+  - openssl=3.0.5=h03a7124_2
+  - pip=22.2.2=pyhd8ed1ab_0
+  - protobuf=3.19.4=py38h6f2b01f_0
+  - python=3.8.13=hd3575e6_0_cpython
+  - python_abi=3.8=2_cp38
+  - readline=8.1.2=h46ed386_0
+  - setuptools=65.4.1=pyhd8ed1ab_0
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.39.4=h2229b38_0
+  - tensorflow-deps=2.10.0=0
+  - tk=8.6.12=he1e0b03_0
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - xz=5.2.6=h57fd34a_0
+  - zlib=1.2.12=h03a7124_4
+prefix: /Users/bap/miniforge3/envs/tensorflow
