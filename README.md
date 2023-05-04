@@ -5,4 +5,4 @@
 - MacOS > 10.0
 
 ## Create environment
-`conda env create --f transformer.yml -n env_name`
+`conda env create -f transformer.yml -n env_name`
